@@ -1,0 +1,42 @@
+[
+  {
+    "id": "01",
+    "coursename": "Personalized gifts",
+    "imageurl": ""
+  },
+  {
+    "id": "02",
+    "coursename": "Tech gadgets",
+    "imageurl": ""
+  },
+  {
+    "id": "03",
+    "coursename": "Subscription boxes",
+    "imageurl": ""
+  },
+  {
+    "id": "04",
+    "coursename": "Home decor",
+    "imageurl": ""
+  },
+  {
+    "id": "05",
+    "coursename": "Experience gifts",
+    "imageurl": ""
+  },
+  {
+    "id": "06",
+    "coursename": "Jewelry",
+    "imageurl": ""
+  },
+  {
+    "id": "07",
+    "coursename": "Books",
+    "imageurl": ""
+  },
+  {
+    "id": "08",
+    "coursename": "Wellness gifts",
+    "imageurl": ""
+  }
+]
